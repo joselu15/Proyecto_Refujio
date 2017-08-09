@@ -1,7 +1,7 @@
 # Proyecto_Refujio
 Proyecto de python area 51
 
-Requerimenten : 
+Requeriments : 
 python 3
 django
 
